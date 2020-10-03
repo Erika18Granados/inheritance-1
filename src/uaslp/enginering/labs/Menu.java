@@ -2,7 +2,7 @@ package uaslp.enginering.labs;
 
 import java.util.LinkedList;
 import java.util.List;
-
+//EXTENDS ES LA PALABRA RESERVADA PARA REFERIR A HERENCIA
 public class Menu extends Control {
 
     List<Control> controls;

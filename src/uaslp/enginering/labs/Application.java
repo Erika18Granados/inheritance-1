@@ -1,5 +1,5 @@
 package uaslp.enginering.labs;
-
+//TIENE TODO LO NECESARIO PARA CREAR UNA INTERFAZ
 public class Application {
 
     public void run() {
